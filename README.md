@@ -10,5 +10,6 @@ download zip and import
 
 ## usage
 1. open setting profile under addons\editor_resource_loader\setting\default_global.tres
-2. enable the plugin or click Project/tools/Custom/UpdateGlobals to load your resources
-3. it is possible to bind a shortcut through the godot command, but right now i didnt add any binding yet.
+2. add resource paths to the array. Make sure all resources desired to use have a resource_name and they all have different naming.
+3. enable the plugin or click Project/tools/Custom/UpdateGlobals to load your resources
+4. it is possible to bind a shortcut through the godot command, but right now i didnt add any binding yet.
