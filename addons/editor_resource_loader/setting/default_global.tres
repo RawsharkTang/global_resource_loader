@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="GlobalResourceSetting" load_steps=2 format=3 uid="uid://cha0u2i52md84"]
+
+[ext_resource type="Script" path="res://addons/editor_resource_loader/setting/global_resource_setting.gd" id="1_pol1l"]
+
+[resource]
+script = ExtResource("1_pol1l")
+data_paths = Array[String](["res://example_curve.tres"])
