@@ -1,3 +1,4 @@
 [gd_resource type="Curve" format=3 uid="uid://c258jq05r54wr"]
 
 [resource]
+resource_name = "example_curve"
